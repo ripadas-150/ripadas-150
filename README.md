@@ -1,6 +1,7 @@
 ![Student](https://i.postimg.cc/25kHFx1B/ripa.png)
 
-# Hi there 👋, Ripa Das
+# Hi there 👋
+## Ripa Das
 ## Student
 
 
