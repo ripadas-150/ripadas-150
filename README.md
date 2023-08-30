@@ -1,6 +1,8 @@
-### Hi there 👋, Ripa Das
-#### Student
 ![Student](https://i.postimg.cc/25kHFx1B/ripa.png)
+
+# Hi there 👋, Ripa Das
+## Student
+
 
 I am Ripa Das. I am interested in programming & want to be a developer.
 
