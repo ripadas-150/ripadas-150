@@ -1,8 +1,7 @@
 ![Student](https://i.postimg.cc/25kHFx1B/ripa.png)
 
 
- Ripa Das
- 
+## Ripa Das
  Student
 
 
