@@ -7,7 +7,7 @@
 
 Competitive programmer with strong C,C++. I am interested in programming,deep learning,machine learning,python,artificial inteligence & want to be a data analyst.
 
-Skills:  programming,HTML,CSS,C language,C++,Data Structure,Algorithm,OOP(python),janggo.
+Skills:  programming,HTML,CSS,C language,C++,Data Structure,Algorithm,OOP(python).
 
 - 🔭 I’m currently working on Student 
 - 🌱 I’m currently learning Python 
