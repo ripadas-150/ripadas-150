@@ -1,11 +1,11 @@
 ![Student](https://i.postimg.cc/25kHFx1B/ripa.png)
 
- Competitive programmer with strong C,C++. I am interested in programming,deep learning,machine learning,python,artificial inteligence & want to be a data analyst.
+
  Ripa Das
  Student
 
 
-I am Ripa Das. I am interested in programming & want to be a developer.
+Competitive programmer with strong C,C++. I am interested in programming,deep learning,machine learning,python,artificial inteligence & want to be a data analyst.
 
 Skills:  programming,HTML,CSS,C language,C++,Data Structure,Algorithm,OOP(python),janggo.
 
