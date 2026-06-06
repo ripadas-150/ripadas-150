@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Python & Deep Learning**
 - 👯 Looking to collaborate on **Python projects**
 - 🤔 Seeking help with **Deep Learning**
-- 💬 Ask me about **C language, Data Structures & Algorithms**
+- 💬 Ask me about **C language, Python , Data Structures & Algorithms**
 - 📫 Reach me at: **nijhumripa160@gmail.com**
 - ⚡ Fun fact: *Coding is my superpower!*
 
@@ -29,7 +29,7 @@
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![Javascript](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
