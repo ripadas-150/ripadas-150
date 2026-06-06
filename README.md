@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ripa Das</h1>
-<h3 align="center">🎯 Competitive Programmer | 🤖 ML Enthusiast | 📊 Aspiring Data Analyst</h3>
+<h3 align="center">🎯 Competitive Programmer | 🤖 ML Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Competitive+Programmer;Machine+Learning+Enthusiast;Aspiring+Data+Analyst;Python+%7C+C+%7C+C%2B%2B+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Competitive+Programmer;Web+Devloper;Machine+Learning+Enthusiast;Python+%7C+C+%7C+C%2B%2B+Developer" alt="Typing SVG" />
 </p>
 
 ---
