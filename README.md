@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ## 🎓 About Me
 
@@ -183,13 +183,3 @@ Data Collection → EDA (Pandas/Matplotlib) → Feature Engineering
 *"The only way to do great work is to love what you do." — Steve Jobs*
 
 📫 Reach me at **nijhumripa160@gmail.com**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ripadas-150&label=Profile%20views&color=f75c7e&style=flat" alt="profile views" />
-</p>
-
-<p align="center">⭐ <i>If you like my work, consider starring my repositories!</i> ⭐</p>
