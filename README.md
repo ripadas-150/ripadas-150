@@ -5,12 +5,12 @@
        alt="Ripa Das"
        style="border-radius: 50%; object-fit: cover;"/>
   <h1>Ripa Das</h1>
-  <h3>🏆 Competitive Programmer  -  💻 Web Developer  -  🧠 ML Enthusiast</h3>
+  <h3>🏆 Competitive Programmer · 💻 Web Developer · 🧠 ML Enthusiast</h3>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nijhumripa160@gmail.com)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)  
+[![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nijhumripa160@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ripadas_)
 
 </div>
@@ -93,7 +93,7 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ripadas-cse)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nijhumripa160@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ripadas_)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ripadas_)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/)
@@ -113,4 +113,5 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ripadas-cse)
 
 </div>
+
 
