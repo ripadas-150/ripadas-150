@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ripa Das
+I'm Ripa Das
 
 ### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh 🇧🇩
 
