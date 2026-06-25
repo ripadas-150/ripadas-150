@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile-pic (1).png"
 " 
-       width="180" 
-       height="180" 
+       width="160" 
+       height="160" 
        alt="Ripa Das"
        style="border-radius: 0%;"/>
   <h1> Ripa Das</h1>
