@@ -37,7 +37,6 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 | 🌐 **Frontend** | HTML, CSS, JavaScript,Typscript,React,Next.js,Tailwind.css, Responsive Design |
 |Backend| node.js, nest.js
 |Database|My Sql,Mongo DB
-
 | 🤖 **Machine Learning** | Data Analysis, Sklearn, Model Building |
 | 🧠 **Deep Learning** | Neural Networks, Feature Engineering |
 | 🐍 **Python Development** | Scripting, Automation, Data Science |
