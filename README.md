@@ -1,12 +1,12 @@
 # I'm Ripa Das
 
-### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh
+### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh 🇧🇩
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ripa-das-a4280328a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nijhumripa160@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-D14836?style=flat-square&logo=gmail&logoColor=white)]((https://www.kaggle.com/ripadas))
-[![Twitter](https://img.shields.io/badge/X-D14836?style=flat-square&logo=gmail&logoColor=white)](https://x.com/ripadas_)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ripadas_)
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 🎓 About Me
 
-B.Sc. in **Computer Science and Engineering (CSE)** — Bangladesh
+B.Sc. in **Computer Science and Engineering (CSE)** — Bangladesh 🇧🇩
 
 I'm a passionate **Competitive Programmer** and **Web Developer** who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into **Machine Learning** and **Deep Learning** to expand my skills.
 
@@ -81,6 +81,8 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ripadas-cse)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nijhumripa160@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ripadas_)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/)
@@ -102,20 +104,5 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ripadas-cse&trophy=MultiLanguage&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ripadas-cse&trophy=Commits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ripadas-cse&trophy=Repositories&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ripadas-cse&trophy=Stars&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ripadas-cse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ripadas-cse&trophy=Followers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ripadas-cse&trophy=Issues&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ripadas-cse&trophy=PullRequest&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ripadas-cse&trophy=Reviews&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
-*"The only way to do great work is to love what you do." — Steve Jobs*
-
-📫 Reach me at **nijhumripa160@gmail.com**
