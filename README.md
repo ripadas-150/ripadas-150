@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ripa Das
 
-### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh
+### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh 🇧🇩
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ripa-das-a4280328a/)
@@ -8,11 +8,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ## 🎓 About Me
 
-B.Sc. in **Computer Science and Engineering (CSE)** — Bangladesh
+B.Sc. in **Computer Science and Engineering (CSE)** — Bangladesh 🇧🇩
 
 I'm a passionate **Competitive Programmer** and **Web Developer** who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into **Machine Learning** and **Deep Learning** to expand my skills.
 
@@ -34,10 +34,10 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 | Domain | Topics |
 |--------|--------|
 | 🏆 **Competitive Programming** | DSA, Problem Solving, Algorithmic Thinking |
-| 🌐 **Frontend** | HTML, CSS, JavaScript,Typscript,React,Next.js,Tailwind.css, Responsive Design |
-|Backend| node.js, nest.js
-|Database|My Sql,Mongo DB
-| 🤖 **Machine Learning** | Data Analysis, Sklearn, Model Building |
+| 🎨 **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| 🖥️ **Backend** | Node.js, Nest.js, REST API |
+| 🗄️ **Database** | MySQL, MongoDB |
+| 🤖 **Machine Learning** | Data Analysis, Scikit-Learn, Model Building |
 | 🧠 **Deep Learning** | Neural Networks, Feature Engineering |
 | 🐍 **Python Development** | Scripting, Automation, Data Science |
 | 📊 **Data Science** | NumPy, Pandas, Matplotlib, Seaborn |
@@ -46,13 +46,20 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 ## 🛠️ Languages & Tools
 
-**Programming Languages**
-[![](https://skillicons.dev/icons?i=c,cpp,python,js&perline=10)](https://skillicons.dev)
+**👩‍💻 Programming Languages**
 
-**Web Development**
-[![](https://skillicons.dev/icons?i=html,css,js&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,python,js,ts&perline=10)](https://skillicons.dev)
 
-**Data Science & Machine Learning**
+**🌐 Frontend Development**
+
+[![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=10)](https://skillicons.dev)
+
+**🖥️ Backend & Database**
+
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb&perline=10)](https://skillicons.dev)
+
+**🤖 Data Science & Machine Learning**
+
 [![](https://skillicons.dev/icons?i=python,tensorflow&perline=10)](https://skillicons.dev)
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -61,8 +68,12 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Tools & Platforms**
+**⚙️ Tools & Platforms**
+
 [![](https://skillicons.dev/icons?i=git,github,vscode,linux&perline=10)](https://skillicons.dev)
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
@@ -91,7 +102,3 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ripadas-cse&theme=tokyonight&no-frame=true&column=7&margin-w=4)](https://github.com/ripadas-cse)
 
 ---
-
-*"The only way to do great work is to love what you do." — Steve Jobs*
-
-📫 Reach me at **nijhumripa160@gmail.com**
