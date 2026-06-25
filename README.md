@@ -7,10 +7,10 @@
   <h1>Ripa Das</h1>
   <h3>🏆 Competitive Programmer |  💻 Web Developer | 🧠 ML Enthusiast</h3>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nijhumripa160@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)
+[![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)  |  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)  |  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nijhumripa160@gmail.com)  |  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)  |  
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ripadas_)
 
 </div>
