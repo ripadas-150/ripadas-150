@@ -50,6 +50,20 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 ---
 
+<br clear="right"/>
+
+---
+
+## 🔬 Research Interests
+
+| Domain | Topics |
+|--------|--------|
+🧠 **Machine & Deep Learning**  | Neural Architectures, Transfer Learning |
+👁️ **Computer Vision**          | Image Processing, Object Detection, Generative Models |
+📝 **NLP & LLMs**               | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
+
+---
+
 ## 🛠️ Languages & Tools
 
 **👩‍💻 Programming Languages**
