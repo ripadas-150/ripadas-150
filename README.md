@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile-pic (1).png"
 " 
-       width="140" 
-       height="140" 
+       width="130" 
+       height="130" 
        alt="Ripa Das"
        style="border-radius: 0%;"/>
   <h1> Ripa Das</h1>
-  <h3>🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast </h3>
+  <h3>🚀 Competitive Programmer · 💻 Web Developer · 🧠 ML Enthusiast </h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
