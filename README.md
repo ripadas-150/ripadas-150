@@ -18,13 +18,13 @@ B.Sc. in **Computer Science and Engineering (CSE)** — Bangladesh 🇧🇩
 
 I'm a passionate **Competitive Programmer** and **Web Developer** who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into **Machine Learning** and **Deep Learning** to expand my skills.
 
-- 🔭 **Currently working on:** Sharpening **Software Development** skills
+- 🔭 **Currently working on:** Sharpening ***Software Development*** skills
 - 🌱 **Currently learning:** Python & **Deep Learning**
 - 👯 **Looking to collaborate on:** Python & ML projects
 - 🤔 **Seeking help with:** Deep Learning & Neural Networks
-- 💬 **Ask me about:** C, Python, Data Structures & Algorithms
+- 💬 **Ask me about:** Javascript, Python, Data Structures & Algorithms
 - 📫 **Reach me at:** nijhumripa160@gmail.com
-- 📍 **Location:** Bangladesh 🇧🇩
+- 📍 **Location:** Dhaka-Bangladesh
 - ⚡ **Fun fact:** Coding is my superpower! 🦸‍♀️
 
 <br clear="right"/>
