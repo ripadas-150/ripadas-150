@@ -50,7 +50,6 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 ---
 
-<br clear="right"/>
 
 ---
 
