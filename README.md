@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile-pic (1).png"
 " 
-       width="130" 
-       height="130" 
+       width="150" 
+       height="150" 
        alt="Ripa Das"
-       style="border-radius: 50%;"/>
+       style="border-radius: 30%;"/>
   <h1>I'm Ripa Das</h1>
   <h3>🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast </h3>
 
