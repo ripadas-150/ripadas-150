@@ -53,7 +53,7 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 |--------|--------|
 | 🎨 **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Next JS, Tailwind CSS |
 | 👁️ **Backend** | Node JS, Nest JS, REST API |
-| 📝 **Database** | MySQL, MongoDB |
+| 📝 **Database** | My SQL, Mongo DB |
 
 ---
 
