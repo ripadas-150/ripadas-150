@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ripa Das
 
-### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh 🇧🇩
+### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ripa-das-a4280328a/)
@@ -12,7 +12,7 @@
 
 ## 🎓 About Me
 
-B.Sc. in **Computer Science and Engineering (CSE)** — Bangladesh 🇧🇩
+B.Sc. in **Computer Science and Engineering (CSE)** — Bangladesh
 
 I'm a passionate **Competitive Programmer** and **Web Developer** who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into **Machine Learning** and **Deep Learning** to expand my skills.
 
@@ -34,7 +34,10 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 | Domain | Topics |
 |--------|--------|
 | 🏆 **Competitive Programming** | DSA, Problem Solving, Algorithmic Thinking |
-| 🌐 **Web Development** | HTML, CSS, JavaScript, Responsive Design |
+| 🌐 **Frontend** | HTML, CSS, JavaScript,Typscript,React,Next.js,Tailwind.css, Responsive Design |
+|Backend| node.js, nest.js,
+|Database|My Sql,Mongo DB
+|Tools|git,figma
 | 🤖 **Machine Learning** | Data Analysis, Sklearn, Model Building |
 | 🧠 **Deep Learning** | Neural Networks, Feature Engineering |
 | 🐍 **Python Development** | Scripting, Automation, Data Science |
