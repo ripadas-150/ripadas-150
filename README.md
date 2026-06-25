@@ -1,6 +1,6 @@
 # I'm Ripa Das
 
-### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh 🇧🇩
+### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
@@ -14,7 +14,7 @@
 
 ## 🎓 About Me
 
-B.Sc. in **Computer Science and Engineering (CSE)** — Bangladesh 🇧🇩
+B.Sc. in **Computer Science and Engineering (CSE)** — Bangladesh
 
 I'm a passionate **Competitive Programmer** and **Web Developer** who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into **Machine Learning** and **Deep Learning** to expand my skills.
 
