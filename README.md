@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Ripa Das"/>
+</div>
+
 # I'm Ripa Das
 
 ### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh
@@ -98,5 +102,3 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 [![GitHub Streak](https://streak-stats.demolab.com?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ripadas-cse)
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ripadas-cse)
-
----
