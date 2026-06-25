@@ -1,16 +1,19 @@
 <div align="center">
-  <img style="border-radius=50px" src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile-pic (2).png" width="200" height="200" style="border-radius: 150px; object-fit: cover;" alt="Ripa Das"/>
-</div>
-
-# I'm Ripa Das
-
-### 🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh
+  <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile-pic (2).png" 
+       width="130" 
+       height="130" 
+       alt="Ripa Das"
+       style="border-radius: 50%;"/>
+  <h1>I'm Ripa Das</h1>
+  <h3>🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast · Bangladesh</h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nijhumripa160@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ripadas_)
+
+</div>
 
 ---
 
@@ -62,7 +65,7 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 **🖥️ Backend & Database**
 
-[![](https://skillicons.dev/icons?i=node.js,nestjs,mysql,mongodb&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb&perline=10)](https://skillicons.dev)
 
 **🤖 Data Science & Machine Learning**
 
