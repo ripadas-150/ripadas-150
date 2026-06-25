@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile.jpg" width="200" height="200" style="border-radius: 50; object-fit: cover;" alt="Ripa Das"/>
+  <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile.jpg" width="550" height="600" style="border-radius: 200; object-fit: cover;" alt="Ripa Das"/>
 </div>
 
 # I'm Ripa Das
