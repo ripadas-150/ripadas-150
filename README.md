@@ -26,7 +26,7 @@ B.Sc. in **Computer Science and Engineering (CSE)** — Bangladesh
 
 I'm a passionate **Competitive Programmer** and **Web Developer** who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into **Machine Learning** and **Deep Learning** to expand my skills.
 
-- 🔭 **Currently working on:** Sharpening ***Software Development*** skills, Javascript, Python, Data Structures & Algorithms
+- 🔭 **Currently working on:** Sharpening Software Development skills, Javascript, Python, Data Structures & Algorithms
 - 🌱 **Currently learning:**  *Python, Deep Learning,  Machine Learning, computer vision, generative AI, agentic AI workflows, advanced system design, database architecture, and scalable API design*
 - 👯 **Looking to collaborate on:**  *Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch*
 - ⚡Fun fact:  I love problem-solving, reading research papers, and traveling 📚
