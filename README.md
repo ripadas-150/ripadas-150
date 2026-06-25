@@ -64,47 +64,12 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 **Tools & Platforms**
 [![](https://skillicons.dev/icons?i=git,github,vscode,linux&perline=10)](https://skillicons.dev)
 
----
 
-## 🚀 Featured Projects
-
-> Real-world projects built to solve problems and strengthen skills.
-
----
-
-### 🔷 01 · Web Development Projects
-
-[![Status](https://img.shields.io/badge/Status-🟢%20Active-brightgreen?style=flat-square)]()
-[![Stack](https://img.shields.io/badge/Stack-HTML%20·%20CSS%20·%20JavaScript-orange?style=flat-square)]()
-
-**📌 Goal:** Build clean, responsive, and user-friendly web applications using core web technologies.
-
-**✅ What I'm building:**
-- Responsive portfolio websites
-- Interactive UI components with JavaScript
-- Form-based web apps with validation
-
-| Detail | Info |
-|--------|------|
-| 📁 **Repo** | [`ripadas-cse`](https://github.com/ripadas-cse) |
-| 🧰 **Tech Stack** | HTML5, CSS3, JavaScript |
-| 🎯 **Focus** | Responsive design · Clean UI |
-
----
-
-### 🔷 02 · DSA Problem Solving
-
-[![Status](https://img.shields.io/badge/Status-🟢%20Ongoing-brightgreen?style=flat-square)]()
-[![Stack](https://img.shields.io/badge/Stack-C%20·%20C++-blue?style=flat-square)]()
-
-**📌 Goal:** Sharpen algorithmic thinking through consistent problem solving in competitive programming.
 
 **✅ What I'm doing:**
 - Solving problems on Codeforces, LeetCode, HackerRank
 - Implementing classic data structures (stacks, queues, trees, graphs)
 - Practicing sorting, searching, dynamic programming algorithms
----
-
 ### 📬 Looking to Collaborate?
 
 > I'm open to collaborating on Python projects, ML experiments, DSA challenges, and web development!
