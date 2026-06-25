@@ -4,7 +4,7 @@
        width="180" 
        height="180" 
        alt="Ripa Das"
-       style="border-radius: 50%;"/>
+       style="border-radius: 100%;"/>
   <h1>I'm Ripa Das</h1>
   <h3>🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast </h3>
 
