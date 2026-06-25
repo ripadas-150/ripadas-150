@@ -63,28 +63,6 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 **Tools & Platforms**
 [![](https://skillicons.dev/icons?i=git,github,vscode,linux&perline=10)](https://skillicons.dev)
-
-
-
-**✅ What I'm doing:**
-- Solving problems on Codeforces, LeetCode, HackerRank
-- Implementing classic data structures (stacks, queues, trees, graphs)
-- Practicing sorting, searching, dynamic programming algorithms
-### 📬 Looking to Collaborate?
-
-> I'm open to collaborating on Python projects, ML experiments, DSA challenges, and web development!
-
-| What I Can Work On | Examples |
-|---|---|
-| 🐍 **Python Projects** | Automation, Scripting, Data Processing |
-| 🌐 **Web Projects** | HTML/CSS/JS websites, UI components |
-| 🤖 **ML Projects** | Data analysis, Model building, Visualization |
-| 🏆 **CP Challenges** | Team problem solving, algorithm design |
-
-📩 **Let's connect:** nijhumripa160@gmail.com · [LinkedIn](https://www.linkedin.com/in/ripa-das-a4280328a/)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
