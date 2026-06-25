@@ -4,8 +4,8 @@
        width="180" 
        height="180" 
        alt="Ripa Das"
-       style="border-radius: 100%;"/>
-  <h1>I'm Ripa Das</h1>
+       style="border-radius: 0%;"/>
+  <h1> Ripa Das</h1>
   <h3>🎯 Competitive Programmer · 💻 Web Developer · 🤖 ML Enthusiast </h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
