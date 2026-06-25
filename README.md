@@ -100,9 +100,3 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ripadas-cse)
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ripadas-cse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" />
-</p>
