@@ -53,15 +53,16 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 
 
-## 🔬 Areas of Interest
+## 🔬 Working Areas
 
 
 
 | Domain | Topics |
 |--------|--------|
-🧠 **Machine & Deep Learning**  | Neural Architectures, Transfer Learning |
-👁️ **Computer Vision**          | Image Processing, Object Detection, Generative Models |
-📝 **NLP & LLMs**               | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
+🎨 **Frontend**  | HTML5, CSS3, Java Script, Type Script, React, Next JS, Tailwind CSS |
+👁️ **Backend**          | Node JS, Nest JS, REST API |
+📝 **Database**               | 	My SQL, Mongo DB |
+
 
 ---
 
