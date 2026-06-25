@@ -5,20 +5,20 @@
 <h3 align="center">🎯 Competitive Programmer | 💻 Web Developer | 🤖 ML Enthusiast</h3>
 
 <p align="center">
-  <i>Turning caffeine into code, one problem at a time ☕</i>
+  <i>Transforming ideas into solutions </i>
 </p>
 
 ---
 
 ## 🎯 About Me
 
-I'm a passionate **Competitive Programmer** and **Web Developer** from Bangladesh 🇧🇩, driven by a love for solving algorithmic challenges and building real-world projects with Python. Currently exploring the depths of **Deep Learning** to grow my Machine Learning expertise.
+I'm a passionate **Competitive Programmer** and **Web Developer** from Bangladesh 🇧🇩, driven by a love for solving algorithmic challenges and building real-world projects with Python,javascript. Currently exploring the depths of **Deep Learning** to grow my Machine Learning expertise.
 
 - 🔭 Currently sharpening my **Software Development** skills
 - 🌱 Currently learning **Python & Deep Learning**
-- 👯 Looking to collaborate on **Python projects**
+- 👯 Looking to collaborate on **Python & Development projects**
 - 🤔 Seeking help with **Deep Learning**
-- 💬 Ask me about **C, Python, Data Structures & Algorithms**
+- 💬 Ask me about **C, Javascript, Python, Data Structures & Algorithms**
 - 📫 Reach me at: **nijhumripa160@gmail.com**
 - 📍 **Bangladesh** 🇧🇩
 - ⚡ Fun fact: *Coding is my superpower! 🦸‍♀️*
