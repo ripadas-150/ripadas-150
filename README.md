@@ -58,7 +58,7 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 **🖥️ Backend & Database**
 
-[![](https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=node.js,nestjs,mysql,mongodb&perline=10)](https://skillicons.dev)
 
 **🤖 Data Science & Machine Learning**
 
