@@ -148,7 +148,7 @@
 
 [![](https://skillicons.dev/icons?i=c,cpp,python,js,ts&perline=10)](https://skillicons.dev)
 
-**🌐 Frontend Development**
+**🎨 Frontend Development**
 
 [![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=10)](https://skillicons.dev)
 
@@ -156,7 +156,7 @@
 
 [![](https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb&perline=10)](https://skillicons.dev)
 
-**🤖 Data Science & Machine Learning**
+**🧠 Data Science & Machine Learning**
 
 [![](https://skillicons.dev/icons?i=tensorflow&perline=10)](https://skillicons.dev)
 
