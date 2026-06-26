@@ -22,7 +22,7 @@
 
 ## 🎓 About Me
 
-<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">B.Sc. in Computer Science and Engineering (CSE) — Bangladesh</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">B.Sc. in Computer Science and Engineering (CSE) from Institute of Science Trade & Technology — Bangladesh</p>
 
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">I'm a passionate Competitive Programmer and Web Developer who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into Machine Learning and <strong>Deep Learning</strong> to expand my skills.</p>
 
