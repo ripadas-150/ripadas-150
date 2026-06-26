@@ -28,7 +28,7 @@
 
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">💻 Currently working on: Sharpening Software Development skills, Javascript, Python, Data Structures &amp; Algorithms</p>
 
-<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">🌱 Currently learning: Python, Deep Learning, Machine Learning, computer vision, generative AI, agentic AI workflows, advanced system design, database architecture, and scalable API design</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">👩‍💻 Currently learning: Python, Deep Learning, Machine Learning, computer vision, generative AI, agentic AI workflows, advanced system design, database architecture, and scalable API design</p>
 
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">🖥️ Looking to collaborate on: Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch</p>
 
@@ -43,8 +43,8 @@
 | Domain | Topics |
 |--------|--------|
 | 🧠 **Machine & Deep Learning** | Neural Architectures, Transfer Learning |
-| 👁️ **Computer Vision** | Image Processing, Object Detection, Generative Models |
-| 📝 **NLP & LLMs** | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
+| 👩‍💻 **Computer Vision** | Image Processing, Object Detection, Generative Models |
+| 🌱 **NLP & LLMs** | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
 
 ---
 
