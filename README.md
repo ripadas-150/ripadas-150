@@ -24,7 +24,7 @@
 
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">B.Sc. in Computer Science and Engineering (CSE) — Bangladesh</p>
 
-<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">I'm a passionate <strong>Competitive Programmer</strong> and <strong>Web Developer</strong> who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into <strong>Machine Learning</strong> and <strong>Deep Learning</strong> to expand my skills.</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">I'm a passionate Competitive Programmer and Web Developer who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into Machine Learning and <strong>Deep Learning</strong> to expand my skills.</p>
 
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">🔭 Currently working on: Sharpening Software Development skills, Javascript, Python, Data Structures &amp; Algorithms</p>
 
