@@ -54,7 +54,7 @@
 |--------|--------|
 | 🎨 Frontend Development | HTML5, CSS3, JavaScript, TypeScript, React, Next JS, Tailwind CSS |
 | 🖥️ Backend Development | Node JS, Nest JS, REST API |
-| ⚙️ Database Management | My SQL, Mongo DB |
+| ⚙️ Database Management | Postgre SQL, My SQL, Mongo DB |
 
 ---
 
@@ -70,7 +70,7 @@
 
 **🖥️ Backend, Database & Tools**
 
-[![](https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb,git,github,vscode,linux&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,PostgreSQL,mysql,mongodb,git,github,vscode,linux&perline=10)](https://skillicons.dev)
 
 **🧠 Data Science & Machine Learning**
 
