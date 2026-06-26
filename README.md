@@ -9,8 +9,8 @@
 <h3><span style="font-family: 'Times New Roman', Times, serif;">🏆 Competitive Programmer &nbsp;|&nbsp; 💻 Web Developer &nbsp;|&nbsp; 🧠 ML Enthusiast</span></h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ripa-das0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/) 
-[![ISTT Email](https://img.shields.io/badge/%20ripadas_cse-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ripadas_cse_1819@istt.edu.bd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ripadas0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/) 
+[![ISTT Email](https://img.shields.io/badge/%20ripadas-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ripadas_cse_1819@istt.edu.bd)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ripadas_)
 
