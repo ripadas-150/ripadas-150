@@ -30,7 +30,7 @@
 
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">🌱 Currently learning: Python, Deep Learning, Machine Learning, computer vision, generative AI, agentic AI workflows, advanced system design, database architecture, and scalable API design</p>
 
-<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">👯 Looking to collaborate on: Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">🖥️ Looking to collaborate on: Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch</p>
 
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">📚 Fun fact: I love problem-solving, reading research papers, and traveling </p>
 
@@ -53,8 +53,8 @@
 | Domain | Topics |
 |--------|--------|
 | 🎨 **Frontend Development** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
-| ⚙️ **Backend Development** | Node.js, Nest.js, REST API |
-| 🗄️ **Database Management** | MySQL, MongoDB |
+| 🖥️**Backend Development** | Node.js, Nest.js, REST API |
+| ⚙️ **Database Management** | MySQL, MongoDB |
 
 ---
 
