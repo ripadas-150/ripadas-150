@@ -32,7 +32,7 @@
 
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">👯 Looking to collaborate on: Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch</p>
 
-<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">⚡ Fun fact: I love problem-solving, reading research papers, and traveling 📚</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">📚Fun fact: I love problem-solving, reading research papers, and traveling </p>
 
 <br clear="right"/>
 
