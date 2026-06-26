@@ -22,9 +22,9 @@
 
 ## 🎓 About Me
 
-<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">B.Sc. in Computer Science and Engineering (CSE) from <a href="(https://istt.edu.bd/)" target="_blank"> Institute of Science Trade & Technology</a> — Bangladesh</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">B.Sc. in Computer Science and Engineering (CSE) from <a href="https://istt.edu.bd/" target="_blank">Institute of Science Trade &amp; Technology</a> — Bangladesh</p>
 
-<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">I'm a passionate Competitive Programmer and Web Developer who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into Machine Learning and <strong>Deep Learning</strong> to expand my skills.</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">I'm a passionate <strong>Competitive Programmer</strong> and <strong>Web Developer</strong> who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into <strong>Machine Learning</strong> and <strong>Deep Learning</strong> to expand my skills.</p>
 
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">🔭 Currently working on: Sharpening Software Development skills, Javascript, Python, Data Structures &amp; Algorithms</p>
 
@@ -40,105 +40,21 @@
 
 ## 🔬 Research Interests
 
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th style="background: linear-gradient(135deg, #7B2FBE, #9D50BB); color: white; padding: 14px 24px; font-family: 'Times New Roman', Times, serif; font-size: 16px; letter-spacing: 0.5px;">🌟 Domain</th>
-      <th style="background: linear-gradient(135deg, #7B2FBE, #9D50BB); color: white; padding: 14px 24px; font-family: 'Times New Roman', Times, serif; font-size: 16px; letter-spacing: 0.5px;">🔍 Topics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #f3e8ff, #ede0ff); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px; font-weight: bold;">🧠 Machine &amp; Deep Learning</td>
-      <td style="background: linear-gradient(135deg, #f3e8ff, #ede0ff); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px;">
-        <img src="https://img.shields.io/badge/Neural%20Architectures-7B2FBE?style=flat-square"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Transfer%20Learning-9D50BB?style=flat-square"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #e0f7ff, #d0f0ff); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px; font-weight: bold;">👁️ Computer Vision</td>
-      <td style="background: linear-gradient(135deg, #e0f7ff, #d0f0ff); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px;">
-        <img src="https://img.shields.io/badge/Image%20Processing-0096C7?style=flat-square"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Object%20Detection-00B4D8?style=flat-square"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Generative%20Models-48CAE4?style=flat-square"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #fff0e0, #ffe5cc); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px; font-weight: bold;">📝 NLP &amp; LLMs</td>
-      <td style="background: linear-gradient(135deg, #fff0e0, #ffe5cc); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px;">
-        <img src="https://img.shields.io/badge/RAG-E85D04?style=flat-square"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Vector%20DBs-F48C06?style=flat-square"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Fine--tuning-FAA307?style=flat-square"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Prompt%20Engineering-FFBA08?style=flat-square&logoColor=black"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
+| Domain | Topics |
+|--------|--------|
+| 🧠 **Machine & Deep Learning** | Neural Architectures, Transfer Learning |
+| 👁️ **Computer Vision** | Image Processing, Object Detection, Generative Models |
+| 📝 **NLP & LLMs** | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
 
 ---
 
 ## 🔨 Working Areas
 
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th style="background: linear-gradient(135deg, #C2185B, #E91E8C); color: white; padding: 14px 24px; font-family: 'Times New Roman', Times, serif; font-size: 16px; letter-spacing: 0.5px;">🌟 Domain</th>
-      <th style="background: linear-gradient(135deg, #C2185B, #E91E8C); color: white; padding: 14px 24px; font-family: 'Times New Roman', Times, serif; font-size: 16px; letter-spacing: 0.5px;">🛠️ Topics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #fde8f0, #ffd6e7); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px; font-weight: bold;">🎨 Frontend Development</td>
-      <td style="background: linear-gradient(135deg, #fde8f0, #ffd6e7); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px;">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #e3f9e5, #ccf5ce); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px; font-weight: bold;">⚙️ Backend Development</td>
-      <td style="background: linear-gradient(135deg, #e3f9e5, #ccf5ce); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px;">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #e8f4fd, #d0eaff); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px; font-weight: bold;">🗄️ Database Management</td>
-      <td style="background: linear-gradient(135deg, #e8f4fd, #d0eaff); padding: 13px 22px; font-family: 'Times New Roman', Times, serif; font-size: 15px;">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
+| Domain | Topics |
+|--------|--------|
+| 🎨 **Frontend Development** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| ⚙️ **Backend Development** | Node.js, Nest.js, REST API |
+| 🗄️ **Database Management** | MySQL, MongoDB |
 
 ---
 
