@@ -53,7 +53,7 @@
 | Domain | Topics |
 |--------|--------|
 | 🎨 **Frontend Development** | HTML5, CSS3, JavaScript, TypeScript, React, Next.JS, Tailwind CSS |
-| 🖥️**Backend Development** | Node.JS, Nest.JS, REST API |
+| 🖥️**Backend Development** | Node JS, Nest JS, REST API |
 | ⚙️ **Database Management** | My SQL, Mongo DB |
 
 ---
