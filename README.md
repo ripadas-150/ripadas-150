@@ -32,7 +32,7 @@
 
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">🖥️ Looking to collaborate on: Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch</p>
 
-<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">📚 Fun fact: I love problem-solving, reading research papers, and traveling </p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 15px;">📚 Fun fact: I love problem-solving, reading research papers, and traveling</p>
 
 <br clear="right"/>
 
@@ -42,9 +42,9 @@
 
 | Domain | Topics |
 |--------|--------|
-| 🧠 Machine & Deep Learning | Neural Architectures, Transfer Learning |
-| 👩‍💻 Computer Vision | Image Processing, Object Detection, Generative Models |
-| 🌱 NLP & LLMs | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
+| 🧠 **Machine & Deep Learning** | Neural Architectures, Transfer Learning |
+| 👁️ **Computer Vision** | Image Processing, Object Detection, Generative Models |
+| 📝 **NLP & LLMs** | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
 
 ---
 
@@ -52,9 +52,9 @@
 
 | Domain | Topics |
 |--------|--------|
-| 🎨 Frontend Development | HTML5, CSS3, JavaScript, TypeScript, React, Next JS, Tailwind CSS |
-| 🖥️ Backend Development | Node JS, Nest JS, REST API |
-| ⚙️ Database Management | Postgre SQL, My SQL, Mongo DB |
+| 🎨 **Frontend Development** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| 🖥️ **Backend Development** | Node.js, Nest.js, REST API |
+| ⚙️ **Database Management** | PostgreSQL, MySQL, MongoDB, Redis |
 
 ---
 
@@ -70,12 +70,11 @@
 
 **🖥️ Backend, Database & Tools**
 
-[![](https://skillicons.dev/icons?i=nodejs,nestjs,PostgreSQL,mysql,mongodb,git,github,vscode,linux&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,mysql,mongodb,redis,git,github,vscode,linux&perline=10)](https://skillicons.dev)
 
 **🧠 Data Science & Machine Learning**
 
 [![](https://skillicons.dev/icons?i=python,tensorflow,jupyter&perline=10)](https://skillicons.dev) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 
 ---
 
