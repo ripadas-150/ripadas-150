@@ -42,9 +42,9 @@
 
 | Domain | Topics |
 |--------|--------|
-| 🧠 **Machine & Deep Learning** | Neural Architectures, Transfer Learning |
-| 👩‍💻 **Computer Vision** | Image Processing, Object Detection, Generative Models |
-| 🌱 **NLP & LLMs** | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
+| 🧠 Machine & Deep Learning | Neural Architectures, Transfer Learning |
+| 👩‍💻 Computer Vision | Image Processing, Object Detection, Generative Models |
+| 🌱 NLP & LLMs | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
 
 ---
 
@@ -52,9 +52,9 @@
 
 | Domain | Topics |
 |--------|--------|
-| 🎨 **Frontend Development** | HTML5, CSS3, JavaScript, TypeScript, React, Next JS, Tailwind CSS |
-| 🖥️**Backend Development** | Node JS, Nest JS, REST API |
-| ⚙️ **Database Management** | My SQL, Mongo DB |
+| 🎨 Frontend Development | HTML5, CSS3, JavaScript, TypeScript, React, Next JS, Tailwind CSS |
+| 🖥️ Backend Development | Node JS, Nest JS, REST API |
+| ⚙️ Database Management | My SQL, Mongo DB |
 
 ---
 
