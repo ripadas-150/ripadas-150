@@ -1,33 +1,32 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile-pic.png"
-       width="130"
-       height="130"
-       alt="Ripa Das"
-       style="border-radius: 50%; object-fit: cover;"/>
 
-  <h1><span style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">Ripa Das</span></h1>
-  <h3><span style="font-family: 'Times New Roman', Times, serif;">🏆 Competitive Programmer &nbsp;|&nbsp; 💻 Web Developer &nbsp;|&nbsp; 🧠 ML Enthusiast</span></h3>
+<img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile-pic.png" width="130" height="130" alt="Ripa Das" style="border-radius: 50%;"/>
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
-  [![Email](https://img.shields.io/badge/%20ripadas-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ripadas_cse_1819@istt.edu.bd)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)
-  [![Twitter](https://img.shields.io/badge/ripadas_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ripadas_)
+# Ripa Das
+
+### 🏆 Competitive Programmer &nbsp;|&nbsp; 💻 Web Developer &nbsp;|&nbsp; 🧠 ML Enthusiast
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
+[![Email](https://img.shields.io/badge/Gmail-ripadas-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ripadas_cse_1819@istt.edu.bd)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)
+[![Twitter / X](https://img.shields.io/badge/X-ripadas__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ripadas_)
+
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-
 ## 🎓 About Me
+
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 B.Sc. in Computer Science and Engineering (CSE) from [Institute of Science Trade & Technology](https://istt.edu.bd/) — Bangladesh
 
-I'm a passionate Competitive Programmer and Web Developer who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into Machine Learning and Deep Learning to expand my skills.
+I'm a passionate **Competitive Programmer** and **Web Developer** who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into Machine Learning and Deep Learning to expand my skills.
 
-- 💻 **Currently working on:** Sharpening Software Development skills, JavaScript, TypeScript, Data Structures & Algorithms
-- 👩‍💻 **Currently learning:** Python, Deep Learning, Machine Learning, Computer Vision, Generative AI, Agentic AI workflows, advanced system design, database architecture, and scalable API design
-- 🖥️ **Looking to collaborate on:** Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch
+- 💻 **Currently working on:** Sharpening Software Development skills, JavaScript, TypeScript, DSA
+- 👩‍💻 **Currently learning:** Python, Deep Learning, Machine Learning, Computer Vision, Generative AI, Agentic AI workflows, advanced system design & scalable API design
+- 🤝 **Looking to collaborate on:** Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch
 - 📚 **Fun fact:** I love problem-solving, reading research papers, and traveling
 
 <br clear="right"/>
@@ -44,7 +43,7 @@ I'm a passionate Competitive Programmer and Web Developer who loves solving comp
 
 ---
 
-## 🛠️ Languages, Tools & Platforms
+## 🛠️ Tech Stack
 
 **👩‍💻 Programming Languages**
 
@@ -56,16 +55,15 @@ I'm a passionate Competitive Programmer and Web Developer who loves solving comp
 
 **🧠 Data Science & Machine Learning**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**🖥️ Backend, Database & Tools**
+**🖥️ Backend, Database & DevOps**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -74,16 +72,14 @@ I'm a passionate Competitive Programmer and Web Developer who loves solving comp
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **🎨 Frontend Development**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -95,12 +91,16 @@ I'm a passionate Competitive Programmer and Web Developer who loves solving comp
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ripadas-cse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api?username=ripadas-cse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripadas-cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripadas-cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<img src="https://nirzak-streak-stats.vercel.app/?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&theme=tokyo-night&hide_border=true&area=true)
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
