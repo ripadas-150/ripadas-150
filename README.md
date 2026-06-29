@@ -91,16 +91,16 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ripadas-cse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripadas-cse&theme=tokyonight" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripadas-cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ripadas-cse&theme=tokyonight" height="180" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ripadas-cse&theme=tokyonight" alt="Profile Details"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ripadas-cse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
