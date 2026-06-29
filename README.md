@@ -69,6 +69,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
+
 **🖥️ Backend, Database & Tools**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -81,6 +82,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+
 
 **🎨 Frontend Development**
 
@@ -99,26 +102,11 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=ripadas-cse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Ripa's GitHub Stats" height="180"/>
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ripadas-cse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)](https://github.com/ripadas-cse) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripadas-cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/ripadas-cse) |
+|---|---|
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripadas-cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ripadas-cse)
 
-<br/><br/>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ripadas-cse)
 
-<!-- GitHub Streak — updated domain -->
-<img src="https://streak-stats.demolab.com/?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-  <i>⭐ Thanks for visiting my profile! Feel free to connect with me.</i>
 </div>
