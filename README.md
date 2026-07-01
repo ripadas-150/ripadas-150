@@ -1,12 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile-pic (1).png"
-" 
        width="130" 
        height="130" 
        alt="Ripa Das"
-       style="border-radius: 0%;"/>
-  <h1> Ripa Das</h1>
-  <h3>🏆 Competitive Programmer · 💻 Web Developer · 🧠 ML Enthusiast </h3>
+       style="border-radius: 50%; object-fit: cover;"/>
+  <h1>Ripa Das</h1>
+  <h3>🏆 Competitive Programmer · 💻 Web Developer · 🧠 ML Enthusiast</h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
@@ -28,13 +27,11 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 - 🔭 Currently working on: Sharpening Software Development skills, Javascript, Python, Data Structures & Algorithms
   
-- 🌱 Currently learning:  *Python, Deep Learning,  Machine Learning, computer vision, generative AI, agentic AI workflows, advanced system design, database architecture, and scalable API design*
+- 🌱 Currently learning: *Python, Deep Learning, Machine Learning, computer vision, generative AI, agentic AI workflows, advanced system design, database architecture, and scalable API design*
   
-- 👯 Looking to collaborate on:  *Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch*
+- 👯 Looking to collaborate on: *Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch*
   
-- ⚡Fun fact:  I love problem-solving, reading research papers, and traveling 📚
-
-
+- ⚡ Fun fact: I love problem-solving, reading research papers, and traveling 📚
 
 <br clear="right"/>
 
@@ -44,25 +41,19 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 | Domain | Topics |
 |--------|--------|
-🧠 **Machine & Deep Learning**  | Neural Architectures, Transfer Learning |
-👁️ **Computer Vision**          | Image Processing, Object Detection, Generative Models |
-📝 **NLP & LLMs**               | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
-
+| 🧠 **Machine & Deep Learning** | Neural Architectures, Transfer Learning |
+| 👁️ **Computer Vision** | Image Processing, Object Detection, Generative Models |
+| 📝 **NLP & LLMs** | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
 
 ---
 
-
-
 ## 🔬 Working Areas
-
-
 
 | Domain | Topics |
 |--------|--------|
-🎨 **Frontend**  | HTML5, CSS3, Java Script, Type Script, React, Next JS, Tailwind CSS |
-👁️ **Backend**          | Node JS, Nest JS, REST API |
-📝 **Database**               | 	My SQL, Mongo DB |
-
+| 🎨 **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Next JS, Tailwind CSS |
+| 👁️ **Backend** | Node JS, Nest JS, REST API |
+| 📝 **Database** | MySQL, MongoDB |
 
 ---
 
@@ -112,9 +103,13 @@ I'm a passionate **Competitive Programmer** and **Web Developer** who loves solv
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ripadas-cse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)](https://github.com/ripadas-cse) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripadas-cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/ripadas-cse) |
 |---|---|
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ripadas-cse)
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ripadas-cse)
+
+</div>
