@@ -89,8 +89,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">(https://github.com/ripadas-cse) |
-|---|---|
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ripadas-cse)
 
