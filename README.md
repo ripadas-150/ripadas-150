@@ -89,9 +89,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-|  | (https://github-readme-stats.vercel.app/api/top-langs/?username=ripadas-cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/ripadas-cse) |
+<div align="center">(https://github.com/ripadas-cse) |
 |---|---|
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ripadas-cse)
