@@ -4,8 +4,8 @@
        height="130" 
        alt="Ripa Das"
        style="border-radius: 50%; object-fit: cover;"/>
-  <h1>Ripa Das</h1>
-  <h3>🏆 Competitive Programmer · 💻 Web Developer · 🧠 ML Enthusiast</h3>
+       <h1>Ripa Das</h1>
+       <h3>🏆 Competitive Programmer · 💻 Web Developer · 🧠 ML Enthusiast</h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
@@ -14,7 +14,6 @@
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ripadas_)
 
 </div>
-
 
 ---
 
@@ -72,6 +71,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **🎨 Frontend Development**
@@ -88,6 +88,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ripadas-cse)
@@ -95,8 +96,3 @@
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ripadas-cse)
 
 </div>
-
-
-
-<div align="center">
- 
