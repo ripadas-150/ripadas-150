@@ -1,19 +1,21 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile-pic (1).png"
-       width="130" 
-       height="130" 
+  <img src="https://raw.githubusercontent.com/ripadas-cse/ripadas-cse/main/profile-pic%20(1).png"
+       width="130"
+       height="130"
        alt="Ripa Das"
        style="border-radius: 50%; object-fit: cover;"/>
-       <h1>Ripa Das</h1>
-       <h3>🏆 Competitive Programmer · 💻 Web Developer · 🧠 ML Enthusiast</h3>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=00C7B7&style=flat-square)](https://github.com/ripadas-cse)
+  <h1>Ripa Das</h1>
+  <h3>🏆 Competitive Programmer · 💻 Web Developer · 🧠 ML Enthusiast</h3>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ripadas-cse&label=Profile%20views&color=F75C7E&style=flat-square)](https://github.com/ripadas-cse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripa-das-a4280328a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nijhumripa160@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ripadas)
 [![Twitter](https://img.shields.io/badge/ripadas__-FF6B35?style=flat-square&logo=x&logoColor=white)](https://x.com/ripadas_)
 
 </div>
+
 ---
 
 ## 🎓 About Me
@@ -22,7 +24,7 @@
 
 <p>I'm a passionate Competitive Programmer and Web Developer who loves solving complex algorithmic problems and building real-world projects. Currently diving deep into Machine Learning and Deep Learning to expand my skills.</p>
 
-- 💻 **Currently working on:** Sharpening Software Development skills, Javascript, TypeScript, Data Structures &amp; Algorithms
+- 💻 **Currently working on:** Sharpening Software Development skills, JavaScript, TypeScript, Data Structures & Algorithms
 - 👩‍💻 **Currently learning:** Python, Deep Learning, Machine Learning, Computer Vision, Generative AI, Agentic AI Workflows, Advanced System Design, Database Architecture, and Scalable API Design
 - 🖥️ **Looking to collaborate on:** Open source projects, research papers, Kaggle competitions, and deep learning with TensorFlow / PyTorch
 - 📚 **Fun fact:** I love problem-solving, reading research papers, and traveling
@@ -36,7 +38,6 @@
 | 🧠 **Machine & Deep Learning** | Neural Architectures, Transfer Learning |
 | 👁️ **Computer Vision** | Image Processing, Object Detection, Generative Models |
 | 📝 **NLP & LLMs** | RAG, Vector DBs, Fine-tuning, Prompt Engineering |
-
 
 ---
 
@@ -60,16 +61,15 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-
 **🎨 Frontend Development**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-F5A623?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-0070F3?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 **🖥️ Backend, Database & Tools**
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ripadas-cse)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ripadas-cse&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ripadas-cse)
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripadas-cse&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ripadas-cse)
 
