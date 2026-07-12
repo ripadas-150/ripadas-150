@@ -16,7 +16,6 @@
 [![Twitter](https://img.shields.io/badge/ripadas__-FF6B35?style=flat-square&logo=x&logoColor=white)](https://x.com/ripadas_)
 
 </div>
-
 ---
 
 ## 🎓 About Me
